@@ -8,3 +8,4 @@ function showEmoji(emoji) {
   setTimeout(() => {
     emojiElement.remove();
   }, 3000); // Adjust the duration as needed (milliseconds)
+}
