@@ -6,3 +6,4 @@ function showEmoji(emoji) {
   emojiPopup.appendChild(emojiElement);
 
   setTimeout(() => {
+    emojiElement.remove();
