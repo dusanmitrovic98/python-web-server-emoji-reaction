@@ -9,3 +9,4 @@ function showEmoji(emoji) {
     emojiElement.remove();
   }, 3000); // Adjust the duration as needed (milliseconds)
 }
+
