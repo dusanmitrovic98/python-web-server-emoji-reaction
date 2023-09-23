@@ -4,3 +4,4 @@ function showEmoji(emoji) {
   emojiElement.className = "emoji";
   emojiElement.innerText = emoji;
   emojiPopup.appendChild(emojiElement);
+
