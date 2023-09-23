@@ -5,3 +5,4 @@ function showEmoji(emoji) {
   emojiElement.innerText = emoji;
   emojiPopup.appendChild(emojiElement);
 
+  setTimeout(() => {
