@@ -3,3 +3,4 @@ function showEmoji(emoji) {
   const emojiElement = document.createElement("div");
   emojiElement.className = "emoji";
   emojiElement.innerText = emoji;
+  emojiPopup.appendChild(emojiElement);
