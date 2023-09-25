@@ -53,3 +53,4 @@ body {
     animation: slide-up 3s ease-in-out;
 }
 
+@keyframes slide-up {
