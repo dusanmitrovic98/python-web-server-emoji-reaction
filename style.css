@@ -39,3 +39,4 @@ body {
 .emoji-popup {
     position: fixed;
     bottom: 0;
+    left: 50%;
