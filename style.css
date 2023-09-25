@@ -20,3 +20,4 @@ body {
 
 .emoji-list {
     display: flex;
+    justify-content: space-around;
